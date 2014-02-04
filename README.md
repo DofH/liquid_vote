@@ -23,3 +23,6 @@ Secrecy
 -------
 
 A secret ballot is crucial to protecting the integrity of the vote. This means delegates don't know who they are voting for.
+
+This also means someone won't know how their delegate cast their vote. So they ultimately don't know how they voted.
+
